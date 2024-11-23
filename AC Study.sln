@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC Study", "AC Study.csproj", "{B6F3A9ED-B6BF-443D-91DE-1E781D85328A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F3A9ED-B6BF-443D-91DE-1E781D85328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F3A9ED-B6BF-443D-91DE-1E781D85328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F3A9ED-B6BF-443D-91DE-1E781D85328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F3A9ED-B6BF-443D-91DE-1E781D85328A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
