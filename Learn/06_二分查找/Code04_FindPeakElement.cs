@@ -8,7 +8,7 @@
 
 namespace LeetCode;
 // 题目:https://leetcode.cn/problems/find-peak-element/description/
-class Solution
+class FindPeakElementSolution
 {
     public static int FindPeakElement(int[] arr)
     {
