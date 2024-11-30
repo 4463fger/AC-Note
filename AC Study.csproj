@@ -9,7 +9,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Practice\" />
+      <Folder Include="Practice\0.二分查找\" />
+      <Folder Include="Practice\2.栈\" />
+      <Folder Include="Practice\1.链表\" />
+      <Folder Include="Practice\3.队列\" />
     </ItemGroup>
 
 </Project>
