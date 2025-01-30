@@ -107,6 +107,8 @@ public class Code01_HeapSort
     
     private static void swap(int i, int j)
     {
-        (arr[i], arr[j]) = (arr[j], arr[i]);
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }

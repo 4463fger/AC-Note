@@ -98,6 +98,8 @@ public class Code02_HeapSort
 
     private void Swap(int[] arr, int i, int j)
     {
-        (arr[i], arr[j]) = (arr[j], arr[i]);
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
