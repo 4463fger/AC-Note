@@ -1,13 +1,12 @@
-﻿class Program
+﻿using Learn;
+
+class Program
 {
     public static void Main(string[] args)
     {
-        int[] testArray = [1, 3, 5, 2, 4, 6];
-        int n = testArray.Length;
-        
-        Array.Copy(testArray, Code01_SmallSum.arr, n);
-        
-        long result = Code01_SmallSum.SmallSum(0, n - 1);
-        Console.WriteLine(result);
+        Code03_Near2power c = new Code03_Near2power();
+
+        Console.WriteLine( c.near2power(10));
+       
     }
 }
