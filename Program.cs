@@ -7,7 +7,6 @@ class Program
         int n = 1000;
         int testTimes = 10000;
         Console.WriteLine("测试开始");
-        
         Code01_Bitset bitset = new Code01_Bitset(n);
         HashSet<int> hashSet = new HashSet<int>();
 
