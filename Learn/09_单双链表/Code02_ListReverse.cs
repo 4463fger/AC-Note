@@ -6,7 +6,7 @@
  * └──────────────────────────────────┘
  */
 
-namespace LeetCode;
+namespace Learn;
 
 // 单链表节点
 public class ListNode
