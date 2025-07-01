@@ -6,7 +6,7 @@
  * └──────────────────────────────────┘
  */
 
-namespace LeetCode;
+namespace Learn;
 
 public class MergeTwoLists
 {
