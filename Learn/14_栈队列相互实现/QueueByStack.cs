@@ -7,6 +7,10 @@
  */
 
 // 用栈实现队列
+// https://leetcode.cn/problems/implement-queue-using-stacks/
+
+namespace Learn;
+
 class QueueByStack
 {
     public class MyQueue 

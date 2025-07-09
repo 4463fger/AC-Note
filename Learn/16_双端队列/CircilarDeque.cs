@@ -9,6 +9,8 @@
 // 设计循环双端队列
 // 测试链接 : https://leetcode.cn/problems/design-circular-deque/
 
+namespace Learn;
+
 class CircularDeque
 {
     // 使用数组实现的循环双端队列

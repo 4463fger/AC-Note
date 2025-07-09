@@ -6,6 +6,7 @@
  * └──────────────────────────────────┘
  */
 
+namespace Learn;
 public class QueueStack
 {
     // 使用C#实现

@@ -7,6 +7,8 @@
  */
 
 // 用队列实现栈
+// 测试链接 : https://leetcode.cn/problems/implement-stack-using-queues/
+namespace Learn;
 
 class StackByQueue
 {

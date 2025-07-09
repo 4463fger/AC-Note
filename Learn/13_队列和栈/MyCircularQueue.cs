@@ -6,6 +6,7 @@
  * └──────────────────────────────────┘
  */
  
+namespace Learn;
 // 设计循环队列
 // 测试链接 : https://leetcode.cn/problems/design-circular-queue/
 public class MyCircularQueue
