@@ -10,6 +10,9 @@
 // 时间复杂度 O(N)
 // 空间复杂度 O(H) H:树的高度
 // 用递归实现二叉树的三序遍历
+
+namespace Learn;
+
 class BinaryTreeTraversalRecursion
 {
     public class TreeNode

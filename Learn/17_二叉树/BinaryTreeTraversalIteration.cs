@@ -9,6 +9,9 @@
 // 不用递归，用迭代的方式实现二叉树的三序遍历
 // 时间复杂度 O(N)
 // 空间复杂度 O(H) H:树的高度
+
+namespace Learn;
+
 class BinaryTreeTraversalIteration 
 {
     public class TreeNode
@@ -24,8 +27,6 @@ class BinaryTreeTraversalIteration
     }
     
     #region 前中后序遍历
-    
-  
 
     // 先序打印所有节点，
     // 先序遍历(中—>左—>右)
@@ -185,6 +186,7 @@ class BinaryTreeTraversalIteration
                 else
                 {
                     head = stack.Pop();
+                    // 左子树处理完毕
                     ans.Add(head.val);
                     head = head.right;
                 }
