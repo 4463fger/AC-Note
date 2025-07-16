@@ -9,6 +9,8 @@
 // 归并排序，填函数练习风格
 // 测试链接 : https://leetcode.cn/problems/sort-an-array/
 
+namespace Learn;
+
 class MergeSortMethod
 {
     public static int[] SortArray(int[] nums)

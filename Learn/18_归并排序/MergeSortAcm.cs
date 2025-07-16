@@ -6,6 +6,8 @@
  * └──────────────────────────────────┘
  */
 
+namespace Learn;
+
 class MergeSortAcm
 {
     // 归并排序，acm练习风格
