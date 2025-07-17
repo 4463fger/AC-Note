@@ -5,7 +5,9 @@
  * │  创 建 人: 4463fger
  * └──────────────────────────────────┘
  */
- 
+
+namespace Learn;
+
 // 随机快速排序，acm练习风格
 // 测试链接 : https://www.luogu.com.cn/problem/P1177
 // 请同学们务必参考如下代码中关于输入、输出的处理
@@ -42,9 +44,8 @@ public class Code01_QuickSort
     private static void QuickSort2(int[] arr, int l, int r)
     {
         if (l >= r)
-        {
             return;
-        }
+        
         // 随机选择基准值
         int x = arr[l + new Random().Next(r - l + 1)];
         // 分区并获取 ==x 区域的边界

@@ -6,6 +6,8 @@
  * └──────────────────────────────────┘
  */
 
+namespace Learn;
+
 // 随机快速排序，填函数练习风格
 // 测试链接 : https://leetcode.cn/problems/sort-an-array/
 
