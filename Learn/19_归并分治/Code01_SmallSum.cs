@@ -12,8 +12,7 @@
 // 这是输入输出处理效率很高的写法
 // 提交以下的code，提交时请把类名改成"Main"，可以直接通过
 
-using System.IO;
-using System;
+namespace Learn;
 
 public class Code01_SmallSum
 {

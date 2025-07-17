@@ -5,7 +5,9 @@
  * │  创 建 人: 4463fger
  * └──────────────────────────────────┘
  */
- 
+
+namespace Learn;
+
 // 翻转对数量
 // 测试链接 : https://leetcode.cn/problems/reverse-pairs/
 public class Code02_ReversePairs
