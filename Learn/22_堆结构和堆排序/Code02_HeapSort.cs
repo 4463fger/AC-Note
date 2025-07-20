@@ -6,6 +6,8 @@
  * └──────────────────────────────────┘
  */
 
+namespace Learn;
+
 // 堆结构和堆排序
 // 测试链接 : https://leetcode.cn/problems/sort-an-array/
 public class Code02_HeapSort

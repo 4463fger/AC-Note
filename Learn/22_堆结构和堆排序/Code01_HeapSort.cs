@@ -9,6 +9,8 @@
 // 堆结构和堆排序，acm练习风格
 // 测试链接 : https://www.luogu.com.cn/problem/P1177
 
+namespace Learn;
+
 public class Code01_HeapSort
 {
     private const int MAXN = 100001;
